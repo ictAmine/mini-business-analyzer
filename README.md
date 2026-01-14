@@ -1,7 +1,7 @@
 # Mini Business Analyzer
 
-Proyecto simple de análisis de datos empresariales usando Python, SQLite y Pandas.
+Simple business data analyze proyect using Python, SQLite and Pandas.
 
-## Ejecutar
+## Commit
 python setup_db.py
 python analysis.py
