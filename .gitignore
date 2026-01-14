@@ -1,0 +1,16 @@
+# Entornos virtuales
+env/
+venv/
+entorno_datos/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+
